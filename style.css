@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+    color: rgb(231, 181, 219);
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: rgb(217, 217, 218);
+    color: white;
+  }
